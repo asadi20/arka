@@ -1,2 +1,2 @@
 # arka
-arka web base accounting softeare
+arka web base accounting software
